@@ -1,0 +1,8 @@
+MVPTest/.settings/org.eclipse.core.resources.prefs
+MVPTest/.classpath
+/bin/*
+gen/android/support/v7/appcompat/R.java
+gen/com/example/edaiximvp/BuildConfig.java
+gen/com/example/edaiximvp/R.java
+proguard-project.txt
+.project
